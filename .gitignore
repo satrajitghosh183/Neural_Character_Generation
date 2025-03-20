@@ -1,3 +1,14 @@
+
+
+# Ignore dataset and output folders
+data/dataset/
+data/preprocessed/
+data/landmarks/
+checkpoints/
+*.pth
+*.pt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
