@@ -3,8 +3,6 @@ Author: Eckert ZHANG
 Date: 2021-11-10 10:42:34
 LastEditTime: 2022-02-20 21:33:07
 LastEditors: Eckert ZHANG
-FilePath: /pixel-nerf-portrait/src/util/utils_loaddata.py
-Description: 
 """
 import os
 import numpy as np

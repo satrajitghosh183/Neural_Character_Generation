@@ -1,5 +1,6 @@
 ## Re-implemented
 - PositionalEncoding.py
+- CovEncoder.py
 
 ## Borrowed tools
 read through later
