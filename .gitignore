@@ -186,6 +186,54 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+
+# === UNITY PROJECT FILES ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
+
+# Auto-generated VS/JetBrains Rider files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash & error logs
+sysinfo.txt
+
+# Unity cache & analytics
+*.stacktrace
+*.analytics
+*.symbol.json
+
+# Build results
+*.apk
+*.aab
+*.exe
+*.app
+*.zip
+
+# Ignore generated lighting data
+Assets/**/LightingData.asset
+
+# IDE-specific
+.idea/
+*.code-workspace
+
 # Ruff stuff:
 .ruff_cache/
 
