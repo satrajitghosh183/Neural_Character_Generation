@@ -1,4 +1,9 @@
 
+# Ignore everything in data/ except WildAvatar.zip
+data/*
+!data/WildAvatar/
+data/WildAvatar/*
+!data/WildAvatar/WildAvatar.zip
 
 # Ignore dataset and output folders
 data/dataset/
@@ -183,3 +188,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.qodo

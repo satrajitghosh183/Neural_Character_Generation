@@ -1,0 +1,32 @@
+# =============================================
+# ✅ LOCAL DATA COLLECTION & PROCESSING PIPELINE
+# =============================================
+
+# STEP 1: Collect static pose images from webcam
+python capture_multiview.py --subject_id subject_01 --mode poses --frames 5
+
+# STEP 2: Record action videos from webcam (idle, walk, run)
+python capture_multiview.py --subject_id subject_01 --mode actions
+
+# STEP 3: Run DeepLabV3+ segmentation on poses and actions
+python segmentation_pipeline.py --subject_id subject_01 --preview
+
+# STEP 4: Run MediaPipe to extract 2D face and body landmarks
+python landmark_pipeline.py --subject_id subject_01
+
+# =============================================
+# ✅ FULL AUTOMATED PIPELINE (ALL-IN-ONE SCRIPT)
+# =============================================
+
+# Run full pipeline (poses + actions + segmentation + landmarks)
+python collect_avatar_data.py --subject_id subject_01 --mode all --preview
+
+# =============================================
+# ✅ WILDAVATAR DATASET PIPELINE
+# =============================================
+
+# STEP 1: Ensure WildAvatar metadata and toolbox are prepared
+# (you should have folders like data/WildAvatar/__-ChmS-8m8/)
+
+# STEP 2: Run full pipeline using WildAvatar-formatted data
+python collect_avatar_data.py --subject_id __-ChmS-8m8 --from_wildavatar --preview
