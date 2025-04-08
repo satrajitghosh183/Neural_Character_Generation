@@ -1,9 +1,12 @@
-
-# Ignore everything in data/ except WildAvatar.zip
+# Ignore everything in data/
 data/*
-!data/WildAvatar/
-data/WildAvatar/*
-!data/WildAvatar/WildAvatar.zip
+
+# But DO NOT ignore these:
+!data/WildAvatar_Toolbox/
+!data/WildAvatar_Toolbox/**
+
+# If you're keeping WildAvatar.zip too:
+!data/WildAvatar.zip
 
 # Ignore dataset and output folders
 data/dataset/
