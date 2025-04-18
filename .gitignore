@@ -1,0 +1,46 @@
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# === UNITY PROJECT FILES TO IGNORE ===
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+[Mm]emoryCaptures.meta
+.vs/
+.vscode/
+
+# Unity Asset Store tools
+*.unitypackage
+
+# Auto-generated user-specific settings
+UserSettings/
+UserSettings.meta
+
+# Unity cache and logs
+sysinfo.txt
+*.csproj
+*.pidb
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Visual Studio Code (Optional)
+.vscode/
+
+# === GIT FILES TO IGNORE ===
+*.log
+*.bak
+*.tmp
+
+# === YOUR FOLDERS TO IGNORE ===
+FDNeRF/
+multiface/
+FDNeRF_converted/
+FDNeRF_converted.zip
