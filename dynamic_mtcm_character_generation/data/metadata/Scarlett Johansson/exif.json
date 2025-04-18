@@ -1,0 +1,802 @@
+{
+  "001_cb004eea.jpg": {
+    "timestamp": 0.0,
+    "focal_length": 50.0
+  },
+  "002_ea6e259d.jpg": {
+    "timestamp": 1.0,
+    "focal_length": 50.0
+  },
+  "003_b416eed5.jpg": {
+    "timestamp": 2.0,
+    "focal_length": 50.0
+  },
+  "004_bb16ac65.jpg": {
+    "timestamp": 3.0,
+    "focal_length": 50.0
+  },
+  "005_1fc7405f.jpg": {
+    "timestamp": 4.0,
+    "focal_length": 50.0
+  },
+  "006_07bd8618.jpg": {
+    "timestamp": 5.0,
+    "focal_length": 50.0
+  },
+  "007_c72ff5ba.jpg": {
+    "timestamp": 6.0,
+    "focal_length": 50.0
+  },
+  "008_10846cce.jpg": {
+    "timestamp": 7.0,
+    "focal_length": 50.0
+  },
+  "009_fc574624.jpg": {
+    "timestamp": 8.0,
+    "focal_length": 50.0
+  },
+  "010_4eb6eabe.jpg": {
+    "timestamp": 9.0,
+    "focal_length": 50.0
+  },
+  "011_32193038.jpg": {
+    "timestamp": 10.0,
+    "focal_length": 50.0
+  },
+  "012_be8f222c.jpg": {
+    "timestamp": 11.0,
+    "focal_length": 50.0
+  },
+  "013_125e020a.jpg": {
+    "timestamp": 12.0,
+    "focal_length": 50.0
+  },
+  "014_d5c7b58f.jpg": {
+    "timestamp": 13.0,
+    "focal_length": 50.0
+  },
+  "015_bca34e2c.jpg": {
+    "timestamp": 14.0,
+    "focal_length": 50.0
+  },
+  "016_3e4f9139.jpg": {
+    "timestamp": 15.0,
+    "focal_length": 50.0
+  },
+  "017_4f3f64e7.jpg": {
+    "timestamp": 16.0,
+    "focal_length": 50.0
+  },
+  "018_a532251b.jpg": {
+    "timestamp": 17.0,
+    "focal_length": 50.0
+  },
+  "019_9e00e190.jpg": {
+    "timestamp": 18.0,
+    "focal_length": 50.0
+  },
+  "020_cce4e0e0.jpg": {
+    "timestamp": 19.0,
+    "focal_length": 50.0
+  },
+  "021_0b380404.jpg": {
+    "timestamp": 20.0,
+    "focal_length": 50.0
+  },
+  "022_65ffb673.jpg": {
+    "timestamp": 21.0,
+    "focal_length": 50.0
+  },
+  "023_e57cc529.jpg": {
+    "timestamp": 22.0,
+    "focal_length": 50.0
+  },
+  "024_6c2e4da8.jpg": {
+    "timestamp": 23.0,
+    "focal_length": 50.0
+  },
+  "025_cd625bef.jpg": {
+    "timestamp": 24.0,
+    "focal_length": 50.0
+  },
+  "026_f4a75554.jpg": {
+    "timestamp": 25.0,
+    "focal_length": 50.0
+  },
+  "027_cdf02996.jpg": {
+    "timestamp": 26.0,
+    "focal_length": 50.0
+  },
+  "028_f7fab378.jpg": {
+    "timestamp": 27.0,
+    "focal_length": 50.0
+  },
+  "029_75cdebc2.jpg": {
+    "timestamp": 28.0,
+    "focal_length": 50.0
+  },
+  "030_16328494.jpg": {
+    "timestamp": 29.0,
+    "focal_length": 50.0
+  },
+  "031_750d847e.jpg": {
+    "timestamp": 30.0,
+    "focal_length": 50.0
+  },
+  "032_7c1161c1.jpg": {
+    "timestamp": 31.0,
+    "focal_length": 50.0
+  },
+  "033_e49f1cf2.jpg": {
+    "timestamp": 32.0,
+    "focal_length": 50.0
+  },
+  "034_bc5b43ee.jpg": {
+    "timestamp": 33.0,
+    "focal_length": 50.0
+  },
+  "035_b51d7dae.jpg": {
+    "timestamp": 34.0,
+    "focal_length": 50.0
+  },
+  "036_829e603f.jpg": {
+    "timestamp": 35.0,
+    "focal_length": 50.0
+  },
+  "037_ec9df32c.jpg": {
+    "timestamp": 36.0,
+    "focal_length": 50.0
+  },
+  "038_e44106ce.jpg": {
+    "timestamp": 37.0,
+    "focal_length": 50.0
+  },
+  "039_f69978ec.jpg": {
+    "timestamp": 38.0,
+    "focal_length": 50.0
+  },
+  "040_9848047c.jpg": {
+    "timestamp": 39.0,
+    "focal_length": 50.0
+  },
+  "041_9913ca04.jpg": {
+    "timestamp": 40.0,
+    "focal_length": 50.0
+  },
+  "042_81d1cfae.jpg": {
+    "timestamp": 41.0,
+    "focal_length": 50.0
+  },
+  "043_46a213d0.jpg": {
+    "timestamp": 42.0,
+    "focal_length": 50.0
+  },
+  "044_df20e34a.jpg": {
+    "timestamp": 43.0,
+    "focal_length": 50.0
+  },
+  "045_6b008fbc.jpg": {
+    "timestamp": 44.0,
+    "focal_length": 50.0
+  },
+  "046_83629801.jpg": {
+    "timestamp": 45.0,
+    "focal_length": 50.0
+  },
+  "047_6ec9d887.jpg": {
+    "timestamp": 46.0,
+    "focal_length": 50.0
+  },
+  "048_85dcb79b.jpg": {
+    "timestamp": 47.0,
+    "focal_length": 50.0
+  },
+  "049_8398d25d.jpg": {
+    "timestamp": 48.0,
+    "focal_length": 50.0
+  },
+  "050_c8461888.jpg": {
+    "timestamp": 49.0,
+    "focal_length": 50.0
+  },
+  "051_f852bd6d.jpg": {
+    "timestamp": 50.0,
+    "focal_length": 50.0
+  },
+  "052_89d1073b.jpg": {
+    "timestamp": 51.0,
+    "focal_length": 50.0
+  },
+  "053_ec47a4c0.jpg": {
+    "timestamp": 52.0,
+    "focal_length": 50.0
+  },
+  "054_e93bb861.jpg": {
+    "timestamp": 53.0,
+    "focal_length": 50.0
+  },
+  "055_f6e1bf43.jpg": {
+    "timestamp": 54.0,
+    "focal_length": 50.0
+  },
+  "056_ec9b544d.jpg": {
+    "timestamp": 55.0,
+    "focal_length": 50.0
+  },
+  "057_317143a9.jpg": {
+    "timestamp": 56.0,
+    "focal_length": 50.0
+  },
+  "058_90a2b4d3.jpg": {
+    "timestamp": 57.0,
+    "focal_length": 50.0
+  },
+  "059_07020e9d.jpg": {
+    "timestamp": 58.0,
+    "focal_length": 50.0
+  },
+  "060_003a8f0c.jpg": {
+    "timestamp": 59.0,
+    "focal_length": 50.0
+  },
+  "061_bf06c582.jpg": {
+    "timestamp": 60.0,
+    "focal_length": 50.0
+  },
+  "062_c5a26020.jpg": {
+    "timestamp": 61.0,
+    "focal_length": 50.0
+  },
+  "063_61a5b737.jpg": {
+    "timestamp": 62.0,
+    "focal_length": 50.0
+  },
+  "064_4da75fb3.jpg": {
+    "timestamp": 63.0,
+    "focal_length": 50.0
+  },
+  "065_6b64e773.jpg": {
+    "timestamp": 64.0,
+    "focal_length": 50.0
+  },
+  "066_8e7dd66e.jpg": {
+    "timestamp": 65.0,
+    "focal_length": 50.0
+  },
+  "067_590b9254.jpg": {
+    "timestamp": 66.0,
+    "focal_length": 50.0
+  },
+  "068_45cbb6a4.jpg": {
+    "timestamp": 67.0,
+    "focal_length": 50.0
+  },
+  "069_da4a375a.jpg": {
+    "timestamp": 68.0,
+    "focal_length": 50.0
+  },
+  "070_f5ece24f.jpg": {
+    "timestamp": 69.0,
+    "focal_length": 50.0
+  },
+  "071_9a0f4b21.jpg": {
+    "timestamp": 70.0,
+    "focal_length": 50.0
+  },
+  "072_c7f23b07.jpg": {
+    "timestamp": 71.0,
+    "focal_length": 50.0
+  },
+  "073_884e445b.jpg": {
+    "timestamp": 72.0,
+    "focal_length": 50.0
+  },
+  "074_75c0c81a.jpg": {
+    "timestamp": 73.0,
+    "focal_length": 50.0
+  },
+  "075_e0b91ee3.jpg": {
+    "timestamp": 74.0,
+    "focal_length": 50.0
+  },
+  "076_6aac7281.jpg": {
+    "timestamp": 75.0,
+    "focal_length": 50.0
+  },
+  "077_776d5e0f.jpg": {
+    "timestamp": 76.0,
+    "focal_length": 50.0
+  },
+  "078_6b17a035.jpg": {
+    "timestamp": 77.0,
+    "focal_length": 50.0
+  },
+  "079_9f634689.jpg": {
+    "timestamp": 78.0,
+    "focal_length": 50.0
+  },
+  "080_d7addbd8.jpg": {
+    "timestamp": 79.0,
+    "focal_length": 50.0
+  },
+  "081_f92d604e.jpg": {
+    "timestamp": 80.0,
+    "focal_length": 50.0
+  },
+  "082_094c1df4.jpg": {
+    "timestamp": 81.0,
+    "focal_length": 50.0
+  },
+  "083_b9787470.jpg": {
+    "timestamp": 82.0,
+    "focal_length": 50.0
+  },
+  "084_96fadaf8.jpg": {
+    "timestamp": 83.0,
+    "focal_length": 50.0
+  },
+  "085_72293c6d.jpg": {
+    "timestamp": 84.0,
+    "focal_length": 50.0
+  },
+  "086_38ca81dd.jpg": {
+    "timestamp": 85.0,
+    "focal_length": 50.0
+  },
+  "087_bb9186aa.jpg": {
+    "timestamp": 86.0,
+    "focal_length": 50.0
+  },
+  "088_116c6971.jpg": {
+    "timestamp": 87.0,
+    "focal_length": 50.0
+  },
+  "089_244148b6.jpg": {
+    "timestamp": 88.0,
+    "focal_length": 50.0
+  },
+  "090_8e8d0b5c.jpg": {
+    "timestamp": 89.0,
+    "focal_length": 50.0
+  },
+  "091_764fb4f6.jpg": {
+    "timestamp": 90.0,
+    "focal_length": 50.0
+  },
+  "092_4c27282f.jpg": {
+    "timestamp": 91.0,
+    "focal_length": 50.0
+  },
+  "093_fda0f117.jpg": {
+    "timestamp": 92.0,
+    "focal_length": 50.0
+  },
+  "094_ad3f1b0c.jpg": {
+    "timestamp": 93.0,
+    "focal_length": 50.0
+  },
+  "095_0c6b7820.jpg": {
+    "timestamp": 94.0,
+    "focal_length": 50.0
+  },
+  "096_9d0cd927.jpg": {
+    "timestamp": 95.0,
+    "focal_length": 50.0
+  },
+  "097_ca9cfda8.jpg": {
+    "timestamp": 96.0,
+    "focal_length": 50.0
+  },
+  "098_c71a52d0.jpg": {
+    "timestamp": 97.0,
+    "focal_length": 50.0
+  },
+  "099_1046eb6d.jpg": {
+    "timestamp": 98.0,
+    "focal_length": 50.0
+  },
+  "100_0bc6635b.jpg": {
+    "timestamp": 99.0,
+    "focal_length": 50.0
+  },
+  "101_7850b100.jpg": {
+    "timestamp": 100.0,
+    "focal_length": 50.0
+  },
+  "102_97fca716.jpg": {
+    "timestamp": 101.0,
+    "focal_length": 50.0
+  },
+  "103_c4026864.jpg": {
+    "timestamp": 102.0,
+    "focal_length": 50.0
+  },
+  "104_71469b69.jpg": {
+    "timestamp": 103.0,
+    "focal_length": 50.0
+  },
+  "105_0e19a5e1.jpg": {
+    "timestamp": 104.0,
+    "focal_length": 50.0
+  },
+  "106_7d93e0c4.jpg": {
+    "timestamp": 105.0,
+    "focal_length": 50.0
+  },
+  "107_76e3d093.jpg": {
+    "timestamp": 106.0,
+    "focal_length": 50.0
+  },
+  "108_e118d7c8.jpg": {
+    "timestamp": 107.0,
+    "focal_length": 50.0
+  },
+  "109_66b77708.jpg": {
+    "timestamp": 108.0,
+    "focal_length": 50.0
+  },
+  "110_9b23a9ba.jpg": {
+    "timestamp": 109.0,
+    "focal_length": 50.0
+  },
+  "111_13e0f9a5.jpg": {
+    "timestamp": 110.0,
+    "focal_length": 50.0
+  },
+  "112_710c6176.jpg": {
+    "timestamp": 111.0,
+    "focal_length": 50.0
+  },
+  "113_049adfc0.jpg": {
+    "timestamp": 112.0,
+    "focal_length": 50.0
+  },
+  "114_4d4c877f.jpg": {
+    "timestamp": 113.0,
+    "focal_length": 50.0
+  },
+  "115_b22320d3.jpg": {
+    "timestamp": 114.0,
+    "focal_length": 50.0
+  },
+  "116_24bd5bec.jpg": {
+    "timestamp": 115.0,
+    "focal_length": 50.0
+  },
+  "117_3aea85fd.jpg": {
+    "timestamp": 116.0,
+    "focal_length": 50.0
+  },
+  "118_78748ac9.jpg": {
+    "timestamp": 117.0,
+    "focal_length": 50.0
+  },
+  "119_139bab99.jpg": {
+    "timestamp": 118.0,
+    "focal_length": 50.0
+  },
+  "120_e5229f43.jpg": {
+    "timestamp": 119.0,
+    "focal_length": 50.0
+  },
+  "121_2cd88d49.jpg": {
+    "timestamp": 120.0,
+    "focal_length": 50.0
+  },
+  "122_15d9b213.jpg": {
+    "timestamp": 121.0,
+    "focal_length": 50.0
+  },
+  "123_827bf807.jpg": {
+    "timestamp": 122.0,
+    "focal_length": 50.0
+  },
+  "124_2c2d9b34.jpg": {
+    "timestamp": 123.0,
+    "focal_length": 50.0
+  },
+  "125_b66015af.jpg": {
+    "timestamp": 124.0,
+    "focal_length": 50.0
+  },
+  "126_27b87531.jpg": {
+    "timestamp": 125.0,
+    "focal_length": 50.0
+  },
+  "127_9894295d.jpg": {
+    "timestamp": 126.0,
+    "focal_length": 50.0
+  },
+  "128_40ed3346.jpg": {
+    "timestamp": 127.0,
+    "focal_length": 50.0
+  },
+  "129_a47a690d.jpg": {
+    "timestamp": 128.0,
+    "focal_length": 50.0
+  },
+  "130_b42dfae6.jpg": {
+    "timestamp": 129.0,
+    "focal_length": 50.0
+  },
+  "131_fc6adb6b.jpg": {
+    "timestamp": 130.0,
+    "focal_length": 50.0
+  },
+  "132_a2dd114f.jpg": {
+    "timestamp": 131.0,
+    "focal_length": 50.0
+  },
+  "133_9e5b6dda.jpg": {
+    "timestamp": 132.0,
+    "focal_length": 50.0
+  },
+  "134_736d1702.jpg": {
+    "timestamp": 133.0,
+    "focal_length": 50.0
+  },
+  "135_a0327bd7.jpg": {
+    "timestamp": 134.0,
+    "focal_length": 50.0
+  },
+  "136_2b8c824e.jpg": {
+    "timestamp": 135.0,
+    "focal_length": 50.0
+  },
+  "137_29b565f9.jpg": {
+    "timestamp": 136.0,
+    "focal_length": 50.0
+  },
+  "138_c2c0dc1f.jpg": {
+    "timestamp": 137.0,
+    "focal_length": 50.0
+  },
+  "139_30ec33f4.jpg": {
+    "timestamp": 138.0,
+    "focal_length": 50.0
+  },
+  "140_080f3112.jpg": {
+    "timestamp": 139.0,
+    "focal_length": 50.0
+  },
+  "141_7d6d4cc8.jpg": {
+    "timestamp": 140.0,
+    "focal_length": 50.0
+  },
+  "142_5d78bc85.jpg": {
+    "timestamp": 141.0,
+    "focal_length": 50.0
+  },
+  "143_6b2feb16.jpg": {
+    "timestamp": 142.0,
+    "focal_length": 50.0
+  },
+  "144_99c39c61.jpg": {
+    "timestamp": 143.0,
+    "focal_length": 50.0
+  },
+  "145_e968cdd5.jpg": {
+    "timestamp": 144.0,
+    "focal_length": 50.0
+  },
+  "146_bcd22d45.jpg": {
+    "timestamp": 145.0,
+    "focal_length": 50.0
+  },
+  "147_dd6adc82.jpg": {
+    "timestamp": 146.0,
+    "focal_length": 50.0
+  },
+  "148_747f02af.jpg": {
+    "timestamp": 147.0,
+    "focal_length": 50.0
+  },
+  "149_0668be95.jpg": {
+    "timestamp": 148.0,
+    "focal_length": 50.0
+  },
+  "150_7d4d26a4.jpg": {
+    "timestamp": 149.0,
+    "focal_length": 50.0
+  },
+  "151_5ddc0980.jpg": {
+    "timestamp": 150.0,
+    "focal_length": 50.0
+  },
+  "152_a5f9d1a6.jpg": {
+    "timestamp": 151.0,
+    "focal_length": 50.0
+  },
+  "153_e68fb09b.jpg": {
+    "timestamp": 152.0,
+    "focal_length": 50.0
+  },
+  "154_42de3f25.jpg": {
+    "timestamp": 153.0,
+    "focal_length": 50.0
+  },
+  "155_a52e96fe.jpg": {
+    "timestamp": 154.0,
+    "focal_length": 50.0
+  },
+  "156_6bd9b374.jpg": {
+    "timestamp": 155.0,
+    "focal_length": 50.0
+  },
+  "157_8843fa75.jpg": {
+    "timestamp": 156.0,
+    "focal_length": 50.0
+  },
+  "158_b3e56fdd.jpg": {
+    "timestamp": 157.0,
+    "focal_length": 50.0
+  },
+  "159_cc64ec9b.jpg": {
+    "timestamp": 158.0,
+    "focal_length": 50.0
+  },
+  "160_c8047b80.jpg": {
+    "timestamp": 159.0,
+    "focal_length": 50.0
+  },
+  "161_e9edc289.jpg": {
+    "timestamp": 160.0,
+    "focal_length": 50.0
+  },
+  "162_e3501030.jpg": {
+    "timestamp": 161.0,
+    "focal_length": 50.0
+  },
+  "163_b87ecc32.jpg": {
+    "timestamp": 162.0,
+    "focal_length": 50.0
+  },
+  "164_18440a62.jpg": {
+    "timestamp": 163.0,
+    "focal_length": 50.0
+  },
+  "165_561e5653.jpg": {
+    "timestamp": 164.0,
+    "focal_length": 50.0
+  },
+  "166_1a464355.jpg": {
+    "timestamp": 165.0,
+    "focal_length": 50.0
+  },
+  "167_b2390a04.jpg": {
+    "timestamp": 166.0,
+    "focal_length": 50.0
+  },
+  "168_aaaf41c4.jpg": {
+    "timestamp": 167.0,
+    "focal_length": 50.0
+  },
+  "169_b57b3732.jpg": {
+    "timestamp": 168.0,
+    "focal_length": 50.0
+  },
+  "170_1156035a.jpg": {
+    "timestamp": 169.0,
+    "focal_length": 50.0
+  },
+  "171_5f2cac37.jpg": {
+    "timestamp": 170.0,
+    "focal_length": 50.0
+  },
+  "172_adae6b48.jpg": {
+    "timestamp": 171.0,
+    "focal_length": 50.0
+  },
+  "173_39ab0a7f.jpg": {
+    "timestamp": 172.0,
+    "focal_length": 50.0
+  },
+  "174_b300c293.jpg": {
+    "timestamp": 173.0,
+    "focal_length": 50.0
+  },
+  "175_7a73f9a3.jpg": {
+    "timestamp": 174.0,
+    "focal_length": 50.0
+  },
+  "176_09070ef2.jpg": {
+    "timestamp": 175.0,
+    "focal_length": 50.0
+  },
+  "177_51e7fd9e.jpg": {
+    "timestamp": 176.0,
+    "focal_length": 50.0
+  },
+  "178_db9db324.jpg": {
+    "timestamp": 177.0,
+    "focal_length": 50.0
+  },
+  "179_d219493a.jpg": {
+    "timestamp": 178.0,
+    "focal_length": 50.0
+  },
+  "180_5521d15f.jpg": {
+    "timestamp": 179.0,
+    "focal_length": 50.0
+  },
+  "181_52a40655.jpg": {
+    "timestamp": 180.0,
+    "focal_length": 50.0
+  },
+  "182_56820995.jpg": {
+    "timestamp": 181.0,
+    "focal_length": 50.0
+  },
+  "183_065be5ce.jpg": {
+    "timestamp": 182.0,
+    "focal_length": 50.0
+  },
+  "184_2137d05c.jpg": {
+    "timestamp": 183.0,
+    "focal_length": 50.0
+  },
+  "185_d369de0c.jpg": {
+    "timestamp": 184.0,
+    "focal_length": 50.0
+  },
+  "186_ab679730.jpg": {
+    "timestamp": 185.0,
+    "focal_length": 50.0
+  },
+  "187_b430a570.jpg": {
+    "timestamp": 186.0,
+    "focal_length": 50.0
+  },
+  "188_ebfc6465.jpg": {
+    "timestamp": 187.0,
+    "focal_length": 50.0
+  },
+  "189_89822da8.jpg": {
+    "timestamp": 188.0,
+    "focal_length": 50.0
+  },
+  "190_1d7fca25.jpg": {
+    "timestamp": 189.0,
+    "focal_length": 50.0
+  },
+  "191_6b48d25b.jpg": {
+    "timestamp": 190.0,
+    "focal_length": 50.0
+  },
+  "192_6f142457.jpg": {
+    "timestamp": 191.0,
+    "focal_length": 50.0
+  },
+  "193_ccc81566.jpg": {
+    "timestamp": 192.0,
+    "focal_length": 50.0
+  },
+  "194_3253d10f.jpg": {
+    "timestamp": 193.0,
+    "focal_length": 50.0
+  },
+  "195_dc745cfd.jpg": {
+    "timestamp": 194.0,
+    "focal_length": 50.0
+  },
+  "196_08de561a.jpg": {
+    "timestamp": 195.0,
+    "focal_length": 50.0
+  },
+  "197_ed22acef.jpg": {
+    "timestamp": 196.0,
+    "focal_length": 50.0
+  },
+  "198_e056989e.jpg": {
+    "timestamp": 197.0,
+    "focal_length": 50.0
+  },
+  "199_67b0ebbd.jpg": {
+    "timestamp": 198.0,
+    "focal_length": 50.0
+  },
+  "200_d8491f8c.jpg": {
+    "timestamp": 199.0,
+    "focal_length": 50.0
+  }
+}

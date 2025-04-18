@@ -1,0 +1,11 @@
+torch
+torchvision
+pytorch-lightning
+exifread
+opencv-python
+pillow
+hydra-core
+dvc
+wandb
+rembg
+segmentation-models-pytorch

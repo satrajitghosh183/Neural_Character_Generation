@@ -1,0 +1,251 @@
+{
+  "cluster_descriptions": [
+    {
+      "epoch": 61,
+      "image": "061_e18ba2b0.jpg",
+      "cluster_id": 0,
+      "description": "a person at 45 degree angle",
+      "similarity_scores": [
+        0.18225903809070587,
+        0.1758495271205902,
+        0.17453530430793762
+      ]
+    },
+    {
+      "epoch": 1,
+      "image": "001_fe3347c0.jpg",
+      "cluster_id": 1,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.18288281559944153,
+        0.17667774856090546,
+        0.17440544068813324
+      ]
+    },
+    {
+      "epoch": 21,
+      "image": "016_8945d6ca.jpg",
+      "cluster_id": 2,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.17156630754470825,
+        0.16651400923728943,
+        0.16629326343536377
+      ]
+    },
+    {
+      "epoch": 16,
+      "image": "011_7344ca35.jpg",
+      "cluster_id": 3,
+      "description": "a person from left side",
+      "similarity_scores": [
+        0.1726411134004593,
+        0.17114809155464172,
+        0.16645824909210205
+      ]
+    },
+    {
+      "epoch": 51,
+      "image": "046_d93a2c2d.jpg",
+      "cluster_id": 4,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.21666783094406128,
+        0.19988998770713806,
+        0.19663050770759583
+      ]
+    },
+    {
+      "epoch": 86,
+      "image": "086_f2c730f3.jpg",
+      "cluster_id": 5,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.18178075551986694,
+        0.18057148158550262,
+        0.17573903501033783
+      ]
+    },
+    {
+      "epoch": 46,
+      "image": "041_abf5c9cb.jpg",
+      "cluster_id": 6,
+      "description": "a person at 45 degree angle",
+      "similarity_scores": [
+        0.15074622631072998,
+        0.14921414852142334,
+        0.14516815543174744
+      ]
+    },
+    {
+      "epoch": 31,
+      "image": "026_2828fcaf.jpg",
+      "cluster_id": 7,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.17801538109779358,
+        0.17111308872699738,
+        0.1689651906490326
+      ]
+    },
+    {
+      "epoch": 41,
+      "image": "036_3e807a88.jpg",
+      "cluster_id": 8,
+      "description": "a person at 45 degree angle",
+      "similarity_scores": [
+        0.1659330278635025,
+        0.161451056599617,
+        0.152185320854187
+      ]
+    },
+    {
+      "epoch": 81,
+      "image": "081_12fb31ec.jpg",
+      "cluster_id": 9,
+      "description": "a person with chin down",
+      "similarity_scores": [
+        0.16337476670742035,
+        0.1603548228740692,
+        0.15963244438171387
+      ]
+    },
+    {
+      "epoch": 26,
+      "image": "021_6e419870.jpg",
+      "cluster_id": 10,
+      "description": "a person from left side",
+      "similarity_scores": [
+        0.2014298141002655,
+        0.19415760040283203,
+        0.18874846398830414
+      ]
+    },
+    {
+      "epoch": 76,
+      "image": "076_1d914d5b.jpg",
+      "cluster_id": 11,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.20613619685173035,
+        0.19677168130874634,
+        0.19356399774551392
+      ]
+    },
+    {
+      "epoch": 56,
+      "image": "051_268fdfd7.jpg",
+      "cluster_id": 12,
+      "description": "a close-up of a person's face",
+      "similarity_scores": [
+        0.21908476948738098,
+        0.20424127578735352,
+        0.19592724740505219
+      ]
+    },
+    {
+      "epoch": 11,
+      "image": "006_9135205d.jpg",
+      "cluster_id": 13,
+      "description": "a person looking slightly up",
+      "similarity_scores": [
+        0.19075247645378113,
+        0.1883368194103241,
+        0.1865670531988144
+      ]
+    },
+    {
+      "epoch": 66,
+      "image": "066_b378479b.jpg",
+      "cluster_id": 14,
+      "description": "a person with chin down",
+      "similarity_scores": [
+        0.17336061596870422,
+        0.17198871076107025,
+        0.17104697227478027
+      ]
+    }
+  ],
+  "missing_poses": [
+    {
+      "pose_description": "a person looking straight ahead",
+      "similarity": 0.18511682748794556
+    },
+    {
+      "pose_description": "a person looking up",
+      "similarity": 0.17406678199768066
+    },
+    {
+      "pose_description": "a person looking slightly up",
+      "similarity": 0.21666784584522247
+    },
+    {
+      "pose_description": "a person looking down",
+      "similarity": 0.14013050496578217
+    },
+    {
+      "pose_description": "a person looking down at the ground",
+      "similarity": 0.11126810312271118
+    },
+    {
+      "pose_description": "a person facing front",
+      "similarity": 0.19663050770759583
+    },
+    {
+      "pose_description": "a person from left side",
+      "similarity": 0.2014298141002655
+    },
+    {
+      "pose_description": "a person from right side",
+      "similarity": 0.19415760040283203
+    },
+    {
+      "pose_description": "a person at 45 degree angle",
+      "similarity": 0.18874846398830414
+    },
+    {
+      "pose_description": "a person turning back",
+      "similarity": 0.1358211487531662
+    },
+    {
+      "pose_description": "a person from behind",
+      "similarity": 0.13920721411705017
+    },
+    {
+      "pose_description": "a person in profile",
+      "similarity": 0.18353137373924255
+    },
+    {
+      "pose_description": "a person tilting head left",
+      "similarity": 0.17123210430145264
+    },
+    {
+      "pose_description": "a person tilting head right",
+      "similarity": 0.17685697972774506
+    },
+    {
+      "pose_description": "a close-up of a person's face",
+      "similarity": 0.21908481419086456
+    },
+    {
+      "pose_description": "a full body shot",
+      "similarity": 0.17453530430793762
+    },
+    {
+      "pose_description": "a person with chin up",
+      "similarity": 0.1688532531261444
+    },
+    {
+      "pose_description": "a person with chin down",
+      "similarity": 0.19677163660526276
+    },
+    {
+      "pose_description": "a person sitting",
+      "similarity": 0.16090071201324463
+    },
+    {
+      "pose_description": "a person leaning forward",
+      "similarity": 0.16787490248680115
+    }
+  ]
+}
