@@ -1,6 +1,4 @@
-Here's a complete and structured `README.md` summarizing the **math, methodology, training progress, and technical stack** of your project focused on **Transformer-based Temporal-Spatial Consistency Modeling** for view selection in 3D neural reconstructions of **Angelina Jolie**:
 
----
 
 # 🧠 Temporal-Spatial Consistency Transformer for View Selection in NeRFs
 
